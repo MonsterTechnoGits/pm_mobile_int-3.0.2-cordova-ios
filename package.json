@@ -1,6 +1,25 @@
 {
-    "name": "com.jnj.mobile.pm.rsb.100",
-    "version": "3.0.2",
-    "main": "www/index.html",
-    "license": "Apache-2.0"
+  "name": "cordova-plugin-infineasdk",
+  "version": "1.0.13",
+  "description": "InfineaSDK Cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-infineasdk",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfinitePeripherals/InfineaSDKCordova.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Infinite Peripherals",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InfinitePeripherals/InfineaSDKCordova/issues"
+  },
+  "homepage": "https://github.com/InfinitePeripherals/InfineaSDKCordova#readme"
 }
